@@ -1,2 +1,2 @@
-# Collision-Algorithm
-isTouching property with definition
+# p5.play-boilerplate
+Boiler plate for p5.play
